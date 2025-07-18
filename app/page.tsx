@@ -219,8 +219,8 @@ export default function LandingPage() {
             <div className="text-center">
               <div className="mb-8">
                 <img
-                  src="/digital-compliance-report.png"
-                  alt="interactive digital compliance report interface on computer screen showing navigation tabs, clickable buttons, search filters, expandable sections, code violation details with hyperlinks, export options, and team collaboration features for building code compliance review"
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imagen-wpdTErm1KD7Bx2dLEOjqVBIBTh9QXg.png"
+                  alt="Generate Compliance Report dialog showing jurisdiction selection for California 2022 IBC + Local Amendments, checkboxes for Fire Safety, Accessibility, Energy and Seismic sections, Include 3D snapshots option, and Generate Report button"
                   className="rounded-lg shadow-lg mx-auto"
                 />
               </div>
