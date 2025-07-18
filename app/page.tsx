@@ -185,7 +185,7 @@ export default function LandingPage() {
                 <img
                   src="/bim-stair-violation.png"
                   alt="Real-time compliance violation highlight in BIM model"
-                  className="rounded-lg shadow-lg mx-auto"
+                  className="rounded-lg shadow-lg mx-auto w-full max-w-sm h-64 object-cover"
                 />
               </div>
               <div className="h-16 w-16 bg-emerald-600 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -203,7 +203,7 @@ export default function LandingPage() {
                 <img
                   src="/compliance-dashboard.png"
                   alt="Compliance dashboard with issue tracking"
-                  className="rounded-lg shadow-lg mx-auto"
+                  className="rounded-lg shadow-lg mx-auto w-full max-w-sm h-64 object-cover"
                 />
               </div>
               <div className="h-16 w-16 bg-emerald-600 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -221,7 +221,7 @@ export default function LandingPage() {
                 <img
                   src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imagen-wpdTErm1KD7Bx2dLEOjqVBIBTh9QXg.png"
                   alt="Generate Compliance Report dialog showing jurisdiction selection for California 2022 IBC + Local Amendments, checkboxes for Fire Safety, Accessibility, Energy and Seismic sections, Include 3D snapshots option, and Generate Report button"
-                  className="rounded-lg shadow-lg mx-auto"
+                  className="rounded-lg shadow-lg mx-auto w-full max-w-sm h-64 object-cover"
                 />
               </div>
               <div className="h-16 w-16 bg-emerald-600 rounded-full flex items-center justify-center mx-auto mb-6">
